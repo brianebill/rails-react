@@ -1,24 +1,11 @@
-# README
+# Rails + React
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Experimental, no style or form validations.
 
-Things you may want to cover:
+Rails evolution since version 3.x is not profound, as far as I could tell, but it's still a fast way to ship code and a stable way to build an api/data store.
 
-* Ruby version
+React gem does not support the latest versions of React including 16.7 (hooks), which means more lines of code, but overall the two work pretty seamlessly. 
 
-* System dependencies
+# Todo:
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Add hot code reload if it exists
